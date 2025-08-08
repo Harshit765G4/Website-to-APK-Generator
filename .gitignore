@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+output/
+*.apk
+
+# Android Studio / Gradle
+backend/android-template/.gradle/
+backend/android-template/build/
+backend/android-template/app/build/
+backend/android-template/local.properties
+
+# IDE settings
+backend/android-template/.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
